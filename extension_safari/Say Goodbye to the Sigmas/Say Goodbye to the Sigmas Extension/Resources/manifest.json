@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "Say Goodbye to the Sigmas",
+  "version": "1.0",
+  "description": "This extension will eliminate harmful manosphere content.",
+  "permissions": [
+    "webRequest",
+    "activeTab",
+    "storage",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["bg_script.js"]
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/hitch_logo.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "content.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ],
+      "exclude_globs": [
+        "*://*.google.*/*",
+        "*://guidetothemanosphere.com/*",
+        "*://*.wikipedia.*/*",
+        "*://*.britannica.*/*",
+        "*://*.*.edu/*",
+        "*://*.*.org/*",
+        "*://*.*.gov/*"
+      ]
+    }
+  ]
+}
