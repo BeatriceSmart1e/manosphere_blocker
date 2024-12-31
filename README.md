@@ -87,7 +87,7 @@ Congratulations! The extension is now up and running on your machine, and you ca
 If you get any errors, please ensure you are using the correct manifest.json file - otherwise Firefox will not load the extension at all, and you'll have to start messing with the manifest file itself (which is not fun, speaking from experience).
 ___
 ### Loading the extension on Safari
-Safari and Xcode are built different, so unfortunately loading the extension on Safari isn't as easy, and I would personally rather just install Chrome to test it - but you do!
+Safari and Xcode are built different, so unfortunately loading the extension on Safari isn't as easy, and I would personally rather just install Chrome to test it - but you do you!
 
 First of all, ensure you have installed Xcode on your machine. If that's already done, then navigate to the ```extension_safari``` folder on your machine, and inside it is a single folder: ```Say Goodbye to the Sigmas```. Go into the folder, and double click on the file named ```Say Goodbye to the Sigmas.xcodeproj```. There are better ways of opening the project I'm sure, but this is the way I've always done it, so I wouldn't worry about that too much for the time being.
 
