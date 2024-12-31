@@ -4,11 +4,9 @@
   "version": "1.0",
   "description": "This extension will eliminate harmful manosphere content.",
   "permissions": [
-    "webRequest",
     "activeTab",
     "storage",
-    "tabs",
-    "scripting"
+    "tabs"
   ],
   "host_permissions": [
     "<all_urls>"
