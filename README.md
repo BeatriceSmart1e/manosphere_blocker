@@ -8,10 +8,11 @@ ___
 My email is on my profile, so feel free to send an email if you have any words of wisdom regarding the extension itself - maybe there's something I haven't considered or implemented, due to lack of knowledge.
 ___
 If you want to install the latest (production) version of the extension, check the links below for your preferred browser :D
-- chrome link to be added
-- firefox link to be added
-- safari link to be added
-- other browsers??
+- (awaiting approval to publish on Chrome)
+- (yet to be published on Firefox)
+- (yet to be published on Edge)
+- (yet to be published on Safari)
+- (yet to be tested and considered to be published on other browsers)
 
 If you want to test the extension locally, make some changes to test, or just play around with it, you can feel free to! You'll see the tutorial to load the extension locally for each browser below :)
 ___
