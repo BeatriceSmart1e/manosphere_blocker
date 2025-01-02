@@ -3,11 +3,7 @@
     "name": "Say Goodbye to the Sigmas",
     "version": "1.0",
     "description": "This extension will eliminate harmful manosphere content.",
-    "permissions": [
-        "activeTab",
-        "storage",
-        "tabs"
-    ],
+    "permissions": [],
     "host_permissions": [
         "<all_urls>"
     ],
