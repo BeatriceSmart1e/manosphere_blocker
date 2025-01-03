@@ -9,7 +9,7 @@ My email is on my profile, so feel free to send an email if you have any words o
 ___
 If you want to install the latest (production) version of the extension, check the links below for your preferred browser :D
 - (awaiting approval to publish on Chrome)
-- (awaiting approval to publish on Firefox)
+- [Firefox](https://addons.mozilla.org/addon/say-goodbye-to-the-sigmas/)
 - (yet to be published on Edge)
 - (yet to be published on Safari)
 - (yet to be tested and considered to be published on other browsers)
