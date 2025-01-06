@@ -1,11 +1,14 @@
 {
     "manifest_version": 3,
     "name": "Say Goodbye to the Sigmas",
-    "version": "1.0",
+    "version": "1.1",
     "description": "This extension will eliminate harmful manosphere content.",
     "permissions": [],
     "browser_specific_settings": {
         "gecko": {
+            "id": "goodbye-sigmas@hgttm.com"
+        },
+        "gecko_android": {
             "id": "goodbye-sigmas@hgttm.com"
         }
     },

@@ -20,10 +20,13 @@ const bad_words = [
     "no more beta males",
     "reject modern women",
     "women should be submissive",
+    "women are submissive",
     "destroy feminism",
     "false rape accusations",
     "feminism is cancer",
     "equality is a lie",
+    "equality isn't real",
+    "equality isn't an issue",
     "misandry is the issue",
     "misandry is the real issue",
     "women's rights are a plot against men",
@@ -110,49 +113,3 @@ for (let i=0; i<n; i++) {
     };
 };
 found=false;
-
-
-
-
-
-
-
-
-
-
-
-
-// SOMEWHAT WORKING PROTOTYPE OF EXTENSION!!! //
-// //const article = document.querySelector("article"); // testing purposees
-// const stuff = document.body.innerText.toLowerCase(); // selects all the text in the entire website.
-
-// //var n = stuff.length();
-// const bad_words = [
-//     "alphamale",
-//     "sigmamale",
-//     "masculine",
-//     "andrewtate",
-//     "male",
-//     "andrew",
-//     "tate",
-//     "sigma",
-//     "alpha",
-//     "gigchad",
-//     "betamale",
-//     "beta",
-//     "relationships",
-//     "gyatt",
-//     "unsigma",
-//     "mewing",
-//     "skibidi",
-//     "rizz"
-// ]
-// let n = bad_words.length;
-
-// for (let i=0; i<n; i++) {
-//     if (stuff.includes(bad_words[i])) {
-//         //alert("This content might be harmful - continue?");
-//         document.body.innerText = "[redacted]";
-//         break;
-//     }
-// }
