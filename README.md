@@ -8,7 +8,7 @@ ___
 My email is on my profile, so feel free to send an email if you have any words of wisdom regarding the extension itself - maybe there's something I haven't considered or implemented, due to lack of knowledge.
 ___
 If you want to install the latest (production) version of the extension, check the links below for your preferred browser :D
-- (awaiting approval to publish on Chrome)
+- [Chrome](https://chromewebstore.google.com/detail/say-goodbye-to-the-sigmas/nnkoamfbbdibbfgajaeoollpkipmppeb)
 - [Firefox](https://addons.mozilla.org/addon/say-goodbye-to-the-sigmas/)
 - (yet to be published on Edge)
 - (yet to be published on Safari)
