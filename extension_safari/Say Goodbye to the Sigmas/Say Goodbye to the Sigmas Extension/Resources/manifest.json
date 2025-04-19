@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Say Goodbye to the Sigmas",
-  "version": "1.0",
+  "version": "2.0",
   "description": "This extension will eliminate harmful manosphere content.",
   "permissions": [],
   "host_permissions": [
@@ -21,15 +21,19 @@
       ],
       "matches": [
         "*://*/*"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "blocked.html",
+        "bad_words.json",
+        "good_sites.json",
+        "bad_sites.json"
       ],
-      "exclude_globs": [
-        "*://*.google.*/*",
-        "*://guidetothemanosphere.com/*",
-        "*://*.wikipedia.*/*",
-        "*://*.britannica.*/*",
-        "*://*.*.edu/*",
-        "*://*.*.org/*",
-        "*://*.*.gov/*"
+      "matches": [
+        "<all_urls>"
       ]
     }
   ]
