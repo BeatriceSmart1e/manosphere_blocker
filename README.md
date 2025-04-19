@@ -1,11 +1,18 @@
 # Say Goodbye to the Sigmas - an extension to block harmful manosphere content.
-Myself and my wonderful partner Amélie Nolan have entered BTYS (in Ireland) as a group, and are working on a cool project which looks into the harmful effects of manosphere content on (mainly) adolescent boys.
+Myself and my wonderful partner Amélie Nolan have entered BTYS 2025 (in Ireland) as a group, and are working on a cool project which looks into the harmful effects of manosphere content on (mainly) adolescent boys.
 
 A major part of that is our extension. If you're interested in the project as a whole, feel free to visit [our website](https://guidetothemanosphere.com) to learn more!
 ___
 **Please note that this extension is under development, so it might block something you don't need it to block.**
 
 My email is on my profile, so feel free to send an email if you have any words of wisdom regarding the extension itself - maybe there's something I haven't considered or implemented, due to lack of knowledge.
+
+Before you read on, would you please take a minute to buy us a coffee for our efforts? We are constantly working on this extension to make it better, and while it's both free and open-source, we would greatly appreciate a few bucks for our efforts :))
+
+<a href="https://buymeacoffee.com/hgttm" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;">
+</a>
+
 ___
 If you want to install the latest (production) version of the extension, check the links below for your preferred browser :D
 - [Chrome](https://chromewebstore.google.com/detail/say-goodbye-to-the-sigmas/nnkoamfbbdibbfgajaeoollpkipmppeb)
